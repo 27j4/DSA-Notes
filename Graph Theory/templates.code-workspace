@@ -1,0 +1,46 @@
+{
+  "folders": [
+	{
+		"path": "../../Anshul_cp/Contests/templates"
+	}
+],
+  "settings": {
+    "files.associations": {
+      "*.c++": "cpp",
+      "iostream": "cpp",
+      "array": "cpp",
+      "deque": "cpp",
+      "forward_list": "cpp",
+      "list": "cpp",
+      "string": "cpp",
+      "unordered_map": "cpp",
+      "unordered_set": "cpp",
+      "vector": "cpp",
+      "initializer_list": "cpp",
+      "regex": "cpp",
+      "valarray": "cpp",
+      "*.tcc": "cpp",
+      "random": "cpp"
+    },
+    "terminal.integrated.profiles.linux": {
+      "bash": {
+        "path": "bash",
+        "icon": "terminal-bash"
+      },
+      "zsh": {
+        "path": "zsh"
+      },
+      "fish": {
+        "path": "fish"
+      },
+      "tmux": {
+        "path": "tmux",
+        "icon": "terminal-tmux"
+      },
+      "pwsh": {
+        "path": "pwsh",
+        "icon": "terminal-powershell"
+      }
+    }
+  }
+}

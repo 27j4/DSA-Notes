@@ -1,0 +1,17 @@
+Luv [CP -> fundamental] 
+
+*Basic Terminiologies
+
+Part 1 -> Interviews
+	DFS
+	BFS
+	Dijkstra
+	Bellman Ford
+	Minimum spanning tree[Theory Wise]
+
+Part 2 -> Next Step
+	DSU -- Disjoint set Union
+	Minimum spanning tree
+	Directed Acyclic Graph
+	Topologocal Sort
+ 
